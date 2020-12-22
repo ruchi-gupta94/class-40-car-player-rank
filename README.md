@@ -1,2 +1,1 @@
-# class-40-car-player-rank
-class 40 car player rank
+complete car racing game c40 - https://ruchi-gupta94.github.io/class-40-car-player-rank/
